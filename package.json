@@ -18,7 +18,7 @@
     "esbuild": "^0.25.0",
     "esbuild-rails": "^1.0.7",
     "flag-icons": "^7.2.3",
-    "js-cookie": "^3.0.4",
+    "js-cookie": "^3.0.7",
     "nodemon": "^3.1.9",
     "omgopass": "^3.2.1",
     "postcss": "^8.4.49",
